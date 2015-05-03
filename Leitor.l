@@ -1,5 +1,5 @@
 %{
-
+//teste
 %}
 
 PALAVRA [a-zA-Z0-9]+
